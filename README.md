@@ -10,16 +10,16 @@ Typically most findings come in **on the last day of the contest**, so don't be 
 
 As a sponsor, you have four critical tasks in the contest process:
 
-1. Handle duplicate issues.
-2. Weigh in on severity.
-3. Respond to issues.
+1. Handle duplicate issues,
+2. Weigh in on severity,
+3. Respond to issues,
 4. Share your mitigation of findings.
 
 Let's walk through each of these.
 
 ## Handle duplicates
 
-Because the wardens are submitting issues without seeing each others' submissions, there will always be findings that are clear duplicates. Other findings may use different language which ultimately describes the same issue but from different angles. Use your best judgement in identifying duplicates, and don't hesitate to reach out (in your private contest channel) to ask C4 for advice.
+Because the wardens are submitting issues without seeing each others' submissions, there will always be findings that are clear duplicates. Other findings may use different language which ultimately describes the same issue but from different angles. Use your best judgment in identifying duplicates, and don't hesitate to reach out (in your private contest channel) to ask C4 for advice.
 
 1. Determine the best and most thorough description of the finding among the set of duplicates. (At least a portion of the content of the most useful description will be used in the audit report.)
 2. Close the other duplicate issues and label them with `duplicate`
