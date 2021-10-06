@@ -1,0 +1,9 @@
+{
+  "contest": "Sushi Trident contest phase 2",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Unsafe cast in ConcentratedLiquidityPool burn leads to attack",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2021-09-sushitrident-2-findings/issues/50"
+}
